@@ -2868,6 +2868,7 @@
 
 	body.landing #page-wrapper {
 		padding-top: 0;
+        background-image: url("images/overlay.png"), url("../../images/3.png");
 	}
 
 	@-moz-keyframes reveal-header {
@@ -3246,7 +3247,8 @@
 /* Footer */
 
 	#footer {
-		background: #f0f0f0;
+        background: #f0f0f0; 
+       /* background-image: url("../../images/lines.jpg");*/
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}

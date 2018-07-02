@@ -2868,7 +2868,7 @@
 
 	body.landing #page-wrapper {
 		padding-top: 0;
-        background-image: url("images/overlay.png"), url("../../images/3.png");
+        background-image: url("images/overlay.png"), url("../../images/network.jpeg");
 	}
 
 	@-moz-keyframes reveal-header {
@@ -3144,12 +3144,12 @@
 	#banner {
 		background-color: #666;
         background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/electronic.jpg");
+		background-image: url("images/overlay.png"), url("../../images/city.jpeg");
 		background-position: top left,						center center;
 		background-repeat:no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 10em 0 15em 0;
 		text-align: center;
         
 	}
@@ -3248,7 +3248,7 @@
 
 	#footer {
         background: #f0f0f0; 
-       /* background-image: url("../../images/lines.jpg");*/
+        background-image:
 		padding: 4em 0 6em 0;
 		text-align: center;
 	}

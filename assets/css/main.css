@@ -3144,7 +3144,7 @@
 	#banner {
 		background-color: #666;
         background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/city.jpeg");
+		background-image: url("images/overlay.png"), url("../../images/city-min.jpeg");
 		background-position: top left,						center center;
 		background-repeat:no-repeat;
 		background-size: auto,							cover;
